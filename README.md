@@ -1,4 +1,4 @@
-# BBZBL Modul 324: Web-Applikation Projekt Template
+# BBZBL Modul 324: Web-Applikation Template
 
 Dieses Template dient als Vorlage zum Starten eures Projekts.
 
