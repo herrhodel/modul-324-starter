@@ -5,6 +5,9 @@ Dieses Template dient als Vorlage zum Starten eures Projekts.
 Ziel ist es ein Repository zu erstellen, welches, [wie das Muster](https://github.com/herrhodel/modul-324-muster) eine
 Web-Applikation enthält, welche automatisch getestet, gebaut, released und deployed wird.
 
+> [!NOTE]
+> Die Web-Applikation muss in einem Ordner `/app` erstellt werden. Ansonsten müssen Folgescripts angepasst werden.
+
 Je nach Thema, können vom Muster die Grundlagen kopiert und abgeändert werden.
 Natürlich soll dieses Repo nicht nur ein Nginx sondern eine eigene Applikation beinhalten.
 
@@ -17,9 +20,9 @@ umgesetzt werden und man nicht am Anfang vor lauter Bäume den Wald nicht mehr s
 In der ersten Woche wird bewusst das Muster bei allen zum Laufen gebracht. Dies
 soll ermöglichen, dass ein Gesamtüberblick von Anfang an existiert.
 
-## Vorgegebene Ordnerstruktur
-
-Die Ordnerstruktur soll analog zum Muster aufgesetzt werden.
-
-Die Ordner `app` und `docs`, werden von Anfang an benötigt und sind direkt im starter
-vorgegeben.
+> [!NOTE]
+> Vorgegebene Ordnerstruktur
+> Die Ordnerstruktur soll analog zum Muster aufgesetzt werden.
+>
+> Der Ordner `docs` wird von Anfang an benötigt und ist direkt im starter
+> vorgegeben.
